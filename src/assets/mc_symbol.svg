@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="mc_symbol" width="72.354" height="47.854" viewBox="0 0 72.354 47.854">
+    <defs>
+        <style>
+            .cls-5{fill:#f79e1b}
+        </style>
+    </defs>
+    <path id="Rectangle_835" fill="#ff5f00" d="M0 0H19.087V31.174H0z" transform="translate(26.636 8.337)"/>
+    <path id="Path_68842" fill="#eb001b" d="M31.948 27.276a19.791 19.791 0 0 1 7.572-15.584 19.824 19.824 0 1 0 0 31.174 19.791 19.791 0 0 1-7.572-15.59z" transform="translate(-3.345 -3.349)"/>
+    <path id="Path_68843" d="M120.19 65.131v-.639h.275v-.132h-.655v.132h.259v.639zm1.272 0v-.771h-.2l-.231.551-.231-.551h-.2v.771h.143v-.584l.215.5h.149l.215-.5v.584z" class="cls-5" transform="translate(-53.833 -28.918)"/>
+    <path id="Path_68844" d="M97.767 27.27A19.824 19.824 0 0 1 65.69 42.854a19.824 19.824 0 0 0 0-31.174 19.824 19.824 0 0 1 32.077 15.585z" class="cls-5" transform="translate(-29.516 -3.343)"/>
+</svg>
